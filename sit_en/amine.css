@@ -1,0 +1,51 @@
+
+
+body{
+    /* background-image: url(william-warby-Ettx2fc6Oc0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; */
+    background-color: linen;
+ 
+
+}
+h1{
+    color:  maroon;
+
+   /* border-style: groove;
+    border-color: white;
+    border-radius:  10px;
+    background: linear-gradient(rgb(234, 138, 245),rgb(240, 127, 163));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 50px; */
+    
+
+
+}
+p{
+    /*color: rgb(152, 236, 152);
+   font-style: italic;
+   font-weight: bold;
+   font-size: 18px;
+   background: linear-gradient(rgb(198, 78, 231),rgb(232, 95, 141));
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   padding: 10px; */
+   
+
+}
+#txt {
+    /*margin: 25%  ;*/
+    border-top: 0px ;
+    border-left: 0px ;
+    border-right: 0px ;
+    border-bottom: 10px;
+    color: linen;
+
+}
+#bu {
+    margin-left: 90px;
+
+}
